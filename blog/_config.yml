@@ -1,0 +1,39 @@
+---
+title: jfx Blog
+description: A blog dedicated to my rambling thoughts about tech and privacy.
+baseurl: ""
+url: "https://blog.jfx.ac"
+
+author:
+  email: me@jfx.ac
+  name: Thomas (jfx)
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+minima:
+  skin: dark
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    - { platform: twitter, user_url: https://twitter.com/itsjfx }
+    - { platform: github, user_url: https://github.com/itsjfx }
+
+permalink: /:title:output_ext
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

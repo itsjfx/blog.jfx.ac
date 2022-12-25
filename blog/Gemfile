@@ -6,14 +6,14 @@ source "https://rubygems.org"
 #
 
 # Happy Jekylling!
-gem "jekyll", "~> 4.2.0"
+gem "jekyll", "~> 4.3.1"
 
 # This is the default theme for new Jekyll sites.
 gem "minima", github: "jekyll/minima"
 
 # Jekyll plugins
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.15.1"
+  gem "jekyll-feed", "~> 0.17.0"
   gem "jekyll-sitemap", "~> 1.4.0"
   gem "jekyll-redirect-from", "~> 0.16.0"
 end

@@ -1,4 +1,4 @@
-_site
-.sass-cache
-.jekyll-metadata
-.jekyll-cache
+blog/_site
+blog/.sass-cache
+blog/.jekyll-metadata
+blog/.jekyll-cache
