@@ -26,6 +26,8 @@ jobs:
         uses: limjh16/jekyll-action-ts@v2
         with:
           enable_cache: true
+          jekyll_src: blog
+          gem_src: blog
 
       - name: 🚀 deploy
         uses: peaceiris/actions-gh-pages@v3
