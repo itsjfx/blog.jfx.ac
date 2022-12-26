@@ -1,3 +1,4 @@
+---
 name: Build and deploy jekyll site
 
 on:
@@ -7,7 +8,7 @@ on:
 
 jobs:
   jekyll:
-    runs-on: ubuntu-latest # can change this to ubuntu-latest if you prefer
+    runs-on: ubuntu-latest
     steps:
       - name: 📂 setup
         uses: actions/checkout@v2
