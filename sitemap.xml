@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://blog.jfx.ac/securing-nginx-origin-with-cloudflare.html</loc>
+<lastmod>2020-08-03T04:42:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://blog.jfx.ac/the-horrors-of-sending-transactional-email.html</loc>
+<lastmod>2020-12-29T07:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://blog.jfx.ac/moving-notes-from-google-keep-to-joplin.html</loc>
+<lastmod>2020-12-31T14:23:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://blog.jfx.ac/syncing-joplin-notes-to-aws-s3.html</loc>
+<lastmod>2021-01-01T15:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://blog.jfx.ac/about/</loc>
+</url>
+<url>
+<loc>https://blog.jfx.ac/</loc>
+</url>
+</urlset>
